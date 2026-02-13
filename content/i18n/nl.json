@@ -1,0 +1,35 @@
+{
+  "common": {
+    "brand": "Vakantiepark De Byvanck",
+    "ctaReserve": "Reserveren / Contact",
+    "ctaCall": "Bel ons",
+    "readMore": "Lees meer",
+    "asOf": "Content last verified: 2026-02-13"
+  },
+  "nav": {
+    "home": "Home",
+    "camping": "Kamperen",
+    "surroundings": "Omgeving",
+    "pitches": "Jaarplaatsen",
+    "map": "Plattegrond",
+    "pool": "Zwembad",
+    "pricelist": "Prijslijst kamperen",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "appointment": "Afspraak"
+  },
+  "home": {
+    "title": "Welkom in de Liemerse Achterhoek",
+    "subtitle": "Buiten Beek, aan de voet van de Montferlandse heuvels, tegen de Duitse grens. Geniet van rust, natuur en vele fiets- en wandelroutes."
+  },
+  "contactForm": {
+    "firstName": "Voornaam",
+    "lastName": "Achternaam",
+    "email": "E-mail",
+    "message": "Bericht",
+    "submit": "Verstuur",
+    "success": "Bedankt! We nemen zo snel mogelijk contact op.",
+    "fallback": "SMTP niet geconfigureerd. Gebruik e-mail:",
+    "error": "Er ging iets mis. Probeer het opnieuw."
+  }
+}
