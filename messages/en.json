@@ -1,0 +1,35 @@
+{
+  "common": {
+    "brand": "Vakantiepark De Byvanck",
+    "ctaReserve": "Book / Contact",
+    "ctaCall": "Call us",
+    "readMore": "Read more",
+    "asOf": "Content last verified: 2026-02-13"
+  },
+  "nav": {
+    "home": "Home",
+    "camping": "Camping",
+    "surroundings": "Surroundings",
+    "pitches": "Year pitches",
+    "map": "Map",
+    "pool": "Indoor pool",
+    "pricelist": "Pricelist",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "appointment": "Appointment"
+  },
+  "home": {
+    "title": "Welcome to the Liemerse Achterhoek",
+    "subtitle": "Near Beek at the foot of the Montferland hills, close to the German border with many cycling and walking routes."
+  },
+  "contactForm": {
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send",
+    "success": "Thanks! We will contact you soon.",
+    "fallback": "SMTP is not configured. Use email:",
+    "error": "Something went wrong. Please try again."
+  }
+}
