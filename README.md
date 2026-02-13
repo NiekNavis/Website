@@ -56,3 +56,15 @@ Replace placeholders:
 - `public/logo-placeholder.svg`
 - `public/og-placeholder.svg`
 - `public/algemene-voorwaarden.pdf`
+
+
+## Vercel troubleshooting
+
+If Vercel shows dependency or build warnings/errors:
+
+1. In Vercel project settings, set **Node.js version** to `20.x`.
+2. Keep the default commands (or use `vercel.json` in this repo):
+   - Install: `npm install`
+   - Build: `npm run build`
+3. Redeploy from the latest commit.
+4. If deploy still fails, open the full **first TypeScript error** in logs and fix that line first; warnings about deprecated packages do not always fail the build.
